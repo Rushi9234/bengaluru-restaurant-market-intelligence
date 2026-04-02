@@ -180,11 +180,3 @@ LinkedIn: [rushikesh-kedar](https://linkedin.com/in/rushikesh-kedar-87106b373)
 
 For academic and portfolio purposes only.
 ```
-
----
-
-Now create the repo on Rushi9234, upload the 2 files, paste this README, add the description and topics — and come back to confirm! 🚀
-
-**Repo description:**
-```
-Round 1 Data Analysis · Rank 1 Nationally · Insightfy 6.0 IIM Lucknow | Statistical market analysis of 844 Bengaluru restaurants
